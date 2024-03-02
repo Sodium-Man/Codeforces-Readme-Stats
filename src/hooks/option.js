@@ -31,7 +31,7 @@ const useOption = () => {
     
     return {
         options,
-        setOptions,
+        setOption,
         getImgUrl,
         setError,
         updateQuerystring,
