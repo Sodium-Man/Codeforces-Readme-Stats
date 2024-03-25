@@ -40,7 +40,7 @@ Want a hyperlink? Try this:
 
 ### Codeforces rating badge
 
-Rating badge can also be added to your `README.md`, by coping and pasting the code below 
+Rating badge can also be added to your `README.md`, by copying and pasting the code below 
 
 ```md
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=redheadphone)
